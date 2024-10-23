@@ -1,4 +1,4 @@
-![2](https://github.com/user-attachments/assets/f48010a0-4696-4325-b9a8-4ae6d50da0b8)![4](https://github.com/user-attachments/assets/057b690f-5e9c-41e8-8994-a339a45208b9)![1](https://github.com/user-attachments/assets/35b364ee-d1d9-4fcf-b478-0e057aa17e12)|*Nama|NIM|Kelas|Matkul*|
+|*Nama|NIM|Kelas|Matkul*|
 |----|---|-----|------|
 |Rahmat unsar|312310442|TI.23.A4|Pemograman Web 4|
 
